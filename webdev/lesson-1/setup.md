@@ -30,7 +30,7 @@ sudo apt-get install -y nodejs
 #### If you have finished downloading, run the following in your terminal:
 
 ```{bash}
-    node -version
+    node --version
 ```
 
 * If this works: you have successfully installed Node.js
